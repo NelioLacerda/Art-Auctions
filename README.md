@@ -5,13 +5,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Commands](#commands)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
